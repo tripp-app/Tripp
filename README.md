@@ -71,4 +71,4 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="https://github.com/tripp-app/Tripp/blob/master/IMG-2082.JPG" width=800><br>
+<img src="https://github.com/tripp-app/Tripp/blob/master/Tripp%20Wireframe.jpg" width=800><br>
