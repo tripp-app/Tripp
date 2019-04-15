@@ -71,4 +71,4 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+<img src="https://github.com/tripp-app/Tripp/blob/master/IMG-2082.JPG" width=800><br>
